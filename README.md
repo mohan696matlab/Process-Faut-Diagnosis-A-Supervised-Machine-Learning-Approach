@@ -14,6 +14,8 @@ xgboost==1.5.1
 tensorflow==2.7.0
 keras==2.7.0`
 
+## Description
+
 Part 1: Exploratory Data Analysis (EDA)
 In this video, we will explore the Tennessee Eastman dataset and perform some exploratory data analysis (EDA) to gain insights into the data. We will visualize the data, perform statistical analyses, and identify patterns and anomalies in the data.
 
