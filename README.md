@@ -16,7 +16,7 @@ keras==2.7.0`
 
 ## Description
 
-Part 1: Exploratory Data Analysis (EDA)
+[Part 1: Exploratory Data Analysis (EDA)](https://youtu.be/su3RUtYB69Q)
 In this video, we will explore the Tennessee Eastman dataset and perform some exploratory data analysis (EDA) to gain insights into the data. We will visualize the data, perform statistical analyses, and identify patterns and anomalies in the data.
 
 Part 2: Training Various Machine Learning Algorithms with Hyperparameter Tuning
