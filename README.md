@@ -12,7 +12,7 @@ seaborn==0.11.2
 scikit-learn==1.1
 xgboost==1.5.1
 tensorflow==2.7.0
-keras==2.7.0'
+keras==2.7.0`
 
 Part 1: Exploratory Data Analysis (EDA)
 In this video, we will explore the Tennessee Eastman dataset and perform some exploratory data analysis (EDA) to gain insights into the data. We will visualize the data, perform statistical analyses, and identify patterns and anomalies in the data.
@@ -40,3 +40,6 @@ Average accuracy score obtained for each method, excluding fault No. 3,9 and 15
 | Neural Network                            |          |
 | CNN-Timeserise                            |          |
 | LSTM-Timeserise                           |          |
+
+## Other Sources
+- [Unsupervise Fault Detection on TEP dataset, YouTube Playlist](https://www.youtube.com/playlist?list=PLoSULBSCtoffIldbr898SDp5gIqo8XL-t)
