@@ -22,7 +22,7 @@ keras==2.7.0`
 ### [Part 1: Exploratory Data Analysis (EDA)](https://youtu.be/su3RUtYB69Q)
 In this video, we will explore the Tennessee Eastman dataset and perform some exploratory data analysis (EDA) to gain insights into the data. We will visualize the data, perform statistical analyses, and identify patterns and anomalies in the data.
 
-### Part 2: Training Various Machine Learning Algorithms with Hyperparameter Tuning
+### [Part 2: Training Various Machine Learning Algorithms with Hyperparameter Tuning](https://youtu.be/__x2kIR23TI)
 In this video, we will train various machine learning algorithms on the Tennessee Eastman dataset. We will use techniques like cross-validation and hyperparameter tuning to optimize the performance of these algorithms. We will evaluate the accuracy of each algorithm and compare their performance.
 
 ### Part 3: Neural Networks for Fault Diagnosis
