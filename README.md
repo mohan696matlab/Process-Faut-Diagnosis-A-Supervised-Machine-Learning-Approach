@@ -4,6 +4,16 @@ Introduction:
 
 Welcome to this video series on machine learning for fault diagnosis. In this series, we will explore various machine learning techniques and algorithms that can be used to diagnose faults in complex systems. We will be using the [Tennessee Eastman dataset](https://www.kaggle.com/datasets/averkij/tennessee-eastman-process-simulation-dataset), which is a widely used benchmark dataset for fault diagnosis. The dataset contains process data for a simulated chemical process with various types of faults.
 
+## Requirements
+`numpy==1.21.4
+pandas==1.3.4
+matplotlib==3.4.3
+seaborn==0.11.2
+scikit-learn==1.1
+xgboost==1.5.1
+tensorflow==2.7.0
+keras==2.7.0'
+
 Part 1: Exploratory Data Analysis (EDA)
 In this video, we will explore the Tennessee Eastman dataset and perform some exploratory data analysis (EDA) to gain insights into the data. We will visualize the data, perform statistical analyses, and identify patterns and anomalies in the data.
 
