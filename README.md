@@ -2,7 +2,10 @@
 
 Introduction:
 
-Welcome to this video series ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoSULBSCtofc9wzI9xXBMOc_bH08PUqQ5)) on machine learning for fault diagnosis. In this series, we will explore various machine learning techniques and algorithms that can be used to diagnose faults in complex systems. We will be using the [Tennessee Eastman dataset](https://www.kaggle.com/datasets/averkij/tennessee-eastman-process-simulation-dataset), which is a widely used benchmark dataset for fault diagnosis. The dataset contains process data for a simulated chemical process with various types of faults.
+Welcome to this video series on machine learning for fault diagnosis. In this series, we will explore various machine learning techniques and algorithms that can be used to diagnose faults in complex systems. We will be using the [Tennessee Eastman dataset](https://www.kaggle.com/datasets/averkij/tennessee-eastman-process-simulation-dataset), which is a widely used benchmark dataset for fault diagnosis. The dataset contains process data for a simulated chemical process with various types of faults.
+
+## [YouTube Playlist](https://www.youtube.com/playlist?list=PLoSULBSCtofc9wzI9xXBMOc_bH08PUqQ5)
+<img src="https://github.com/mohan696matlab/Process-Faut-Diagnosis-A-Supervised-Machine-Learning-Approach/blob/main/images/playlist.JPG" width="200" height="400" />
 
 ## Requirements
 `numpy==1.21.4
