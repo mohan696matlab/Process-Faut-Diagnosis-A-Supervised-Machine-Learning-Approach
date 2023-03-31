@@ -25,7 +25,7 @@ In this video, we will explore the Tennessee Eastman dataset and perform some ex
 ### [Part 2: Training Various Machine Learning Algorithms with Hyperparameter Tuning](https://youtu.be/__x2kIR23TI)
 In this video, we will train various machine learning algorithms on the Tennessee Eastman dataset. We will use techniques like cross-validation and hyperparameter tuning to optimize the performance of these algorithms. We will evaluate the accuracy of each algorithm and compare their performance.
 
-### Part 3: Neural Networks for Fault Diagnosis
+### [Part 3: Neural Networks for Fault Diagnosis](https://youtu.be/Goh_kZewwhw)
 In this video, we will explore the use of neural networks for fault diagnosis. We will start by discussing the basics of neural networks, including feedforward and recurrent neural networks. We will then implement a neural network on the Tennessee Eastman dataset and evaluate its performance.
 
 ### Part 4: Convolutional Neural Networks (CNNs) for Time Series Analysis
@@ -44,7 +44,7 @@ Average accuracy score obtained for each method, excluding fault No. 3,9 and 15
 | XG Boost                                  |  0.770   |
 | Neural Network                            |  0.918   |
 | CNN-Timeserise                            |          |
-| LSTM-Timeserise                           |          |
+| LSTM-Timeserise                           |  0.905   |
 
 ## Other Sources
 - [Unsupervise Fault Detection on TEP dataset, YouTube Playlist](https://www.youtube.com/playlist?list=PLoSULBSCtoffIldbr898SDp5gIqo8XL-t)
