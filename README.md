@@ -43,7 +43,7 @@ Average accuracy score obtained for each method, excluding fault No. 3,9 and 15
 |-----------------------------------------  |----------|
 | XG Boost                                  |  0.770   |
 | Neural Network                            |  0.918   |
-| CNN-Timeserise                            |          |
+| CNN-Timeserise                            |  0.881   |
 | LSTM-Timeserise                           |  0.905   |
 
 ## Other Sources
