@@ -45,6 +45,7 @@ Average accuracy score obtained for each method, excluding fault No. 3,9 and 15
 | Neural Network                            |  0.918   |
 | CNN-Timeserise                            |  0.881   |
 | LSTM-Timeserise                           |  0.905   |
+| ANN+RandomForest                          |  0.924   |
 
 ## Other Sources
 - [Unsupervise Fault Detection on TEP dataset, YouTube Playlist](https://www.youtube.com/playlist?list=PLoSULBSCtoffIldbr898SDp5gIqo8XL-t)
