@@ -28,10 +28,10 @@ In this video, we will train various machine learning algorithms on the Tennesse
 ### [Part 3: Neural Networks for Fault Diagnosis](https://youtu.be/Goh_kZewwhw)
 In this video, we will explore the use of neural networks for fault diagnosis. We will start by discussing the basics of neural networks, including feedforward and recurrent neural networks. We will then implement a neural network on the Tennessee Eastman dataset and evaluate its performance.
 
-### Part 4: Convolutional Neural Networks (CNNs) for Fault Diagnosis
+### [Part 4: Convolutional Neural Networks (CNNs) for Fault Diagnosis](https://youtu.be/eC2OWRczxRU)
 In this video, we will focus on time series analysis using convolutional neural networks (CNNs). We will start by discussing the basics of CNNs and how they can be used for time series analysis. We will then implement a CNN on the Tennessee Eastman dataset and evaluate its performance.
 
-### Part 5: [Long Short-Term Memory (LSTM) Networks for Fault Diagnosis](https://youtu.be/W715Ix3Khrw)
+### [Part 5: Long Short-Term Memory (LSTM) Networks for Fault Diagnosis](https://youtu.be/W715Ix3Khrw)
 In this video, we will explore the use of long short-term memory (LSTM) networks for time series analysis. We will start by discussing the basics of LSTM networks and how they can be used for time series analysis. We will then implement an LSTM network on the Tennessee Eastman dataset and evaluate its performance.
 
 ### Metrics:
