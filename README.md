@@ -34,14 +34,14 @@ In this video, we will focus on time series analysis using convolutional neural 
 ### [Part 5: Long Short-Term Memory (LSTM) Networks for Fault Diagnosis](https://youtu.be/W715Ix3Khrw)
 In this video, we will explore the use of long short-term memory (LSTM) networks for time series analysis. We will start by discussing the basics of LSTM networks and how they can be used for time series analysis. We will then implement an LSTM network on the Tennessee Eastman dataset and evaluate its performance.
 
-### Part 6: ANN + Random Forest based Fault Diagnosis
+### [Part 6: ANN + Random Forest based Fault Diagnosis](https://youtu.be/v3K87hyaHyY)
 This video will demonstrate use of a hybrid machine learning method by combining the Neural Network and random forest. First an ANN is trained on the dataset and then the embeddings of generated from the learned are used as input to a Random Forest for classification and resulted in 1% increase in accuracy.
 
 ### Metrics:
 In this series, we will use accuracy as the primary metric for evaluating the performance of the different machine learning algorithms. We will update the table as we evaluate the performance of other algorithms in the subsequent videos.
 
 
-Average accuracy score obtained for each method, excluding fault No. 3,9 and 15
+Average accuracy score obtained for each method, excluding fault No. 9 and 15 (**No feature were Dropped, all 52 sensor measurements were used**)
 | Method                                    |Accuracy  |
 |-----------------------------------------  |----------|
 | XG Boost                                  |  0.770   |
