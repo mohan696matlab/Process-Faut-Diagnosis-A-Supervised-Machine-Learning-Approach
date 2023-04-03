@@ -44,11 +44,11 @@ In this series, we will use accuracy as the primary metric for evaluating the pe
 Average accuracy score obtained for each method, excluding fault No. 9 and 15 (**No feature were Dropped, all 52 sensor measurements were used**)
 | Method                                    |Accuracy  |
 |-----------------------------------------  |----------|
-| XG Boost                                  |  0.770   |
-| Neural Network                            |  0.918   |
-| CNN-Timeserise                            |  0.881   |
-| LSTM-Timeserise                           |  0.905   |
-| ANN+RandomForest                          |  0.924   |
+| XG Boost                                  |  0.887   |
+| Neural Network                            |  0.943   |
+| 1D CNN-Timeserise                         |  0.892   |
+| LSTM-Timeserise                           |  0.924   |
+| ANN+RandomForest                          |  0.936   |
 
 ## Other Sources
 - [Unsupervise Fault Detection on TEP dataset, YouTube Playlist](https://www.youtube.com/playlist?list=PLoSULBSCtoffIldbr898SDp5gIqo8XL-t)
